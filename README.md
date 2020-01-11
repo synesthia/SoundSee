@@ -12,4 +12,4 @@ Therefore let us map amplitude to pixel color ...
 <br/>
 Here is a simple example
 <br/>
-
+![a simple test](simpletest.png)
