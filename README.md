@@ -1,6 +1,6 @@
 ## How to visualize sounds ?
 
-We have for instance the waveform representation - a wavy line along a horizontal time axis, vertical axis being the amplitude.
+We have for instance the classical waveform representation - a wavy line along a horizontal time axis, vertical axis being the amplitude.
 <br/>
 Unfortunately, an actual graphical waveform on a screen is not "bitperfect", details are lost, amplitude is scaled down.
 <br/>
