@@ -13,3 +13,7 @@ Therefore let us map amplitude to pixel color ...
 Here is a simple example, using python language in jupyter notebook:
 <br/>
 ![a simple test](simpletest.png)
+<br/>
+<br/>
+A more "real world" example based on a 2 second [sound](hareton.wav) :
+![](wood.png)
