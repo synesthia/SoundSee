@@ -10,6 +10,6 @@ To accurately represent these values we would need a vertical screen resolution 
 <br/>
 Therefore let us map amplitude to pixel color ...
 <br/>
-Here is a simple example, made in jupyter notebook:
+Here is a simple example, using python language in jupyter notebook:
 <br/>
 ![a simple test](simpletest.png)
